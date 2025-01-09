@@ -1,1 +1,2 @@
-data analysis 15
+git config --global user.email "prernakanfade@gmail.com"
+  git config --global user.name "PrernaKanfade"
